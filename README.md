@@ -1,6 +1,3 @@
-
-Here's a suggested description for your GitHub repository:
-
 Project Doom :books:
 Project Doom is an AI-powered application designed to help users query and analyze the content of their PDF documents. By leveraging the power of LangChain, Google Generative AI, and FAISS, this project enables the extraction, segmentation, and embedding of text from uploaded PDFs. Users can ask questions related to their documents, and the application provides intelligent, context-aware answers based on the content of those PDFs.
 
