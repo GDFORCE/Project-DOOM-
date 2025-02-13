@@ -84,6 +84,3 @@ async def entrypoint(ctx: JobContext):
 
 if __name__ == "__main__":
     cli.run_app(WorkerOptions(entrypoint_fnc=entrypoint))
-
-
-AIzaSyCWEx5-Jkh5xmh8FZp4bMrldeTHiJ-VlgM == google api key
